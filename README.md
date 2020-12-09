@@ -4,7 +4,7 @@ Boas vindas ao projeto Star Wars Database!
 
 ## O QUE DEVERÁ SER DESENVOLVIDO
 
-Você vai desenvolver uma lista com filtros de planetas do universo de StarWars usando **Context API e Hooks** para controlar os estados globais.
+Você vai desenvolver uma lista com filtros de planetas do universo de StarWars usando **React, Context API e Hooks** para controlar os estados globais.
 
 ---
 
